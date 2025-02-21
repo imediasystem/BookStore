@@ -1,6 +1,6 @@
 ## 🔥 Project Name - BOOKSTORE
 
-Developing online bookstore management system application.
+Developing online bookstore management system application. This project showcasing my ability to object programming.
 
 &nbsp;
 
