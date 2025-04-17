@@ -1,4 +1,4 @@
-![pexels-pixabay-207662](https://github.com/user-attachments/assets/1ca939d7-022f-457f-bc16-be6428d52ded)
+![book-store-vintage-style](https://github.com/user-attachments/assets/2819a5ad-bb85-4e67-8fb3-a17b153beb8b)
 
 ## 🔥 Project Name - BOOKSTORE
 
